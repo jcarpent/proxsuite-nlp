@@ -138,6 +138,7 @@ add_proxsuite_nlp_bench(cholesky-dense-bench)
 add_proxsuite_nlp_bench(tri-solve-bench)
 
 add_proxsuite_nlp_test(cholesky-block-sparse)
+add_proxsuite_nlp_test(cholesky-dense)
 add_proxsuite_nlp_test(tri-solve)
 add_proxsuite_nlp_test(constraints)
 add_proxsuite_nlp_test(costs)
